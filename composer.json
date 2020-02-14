@@ -1,0 +1,19 @@
+{
+    "name": "mobio/contact",
+    "description": "This will show contact details of mobio.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maitri-shah",
+            "email": "maitri.shah@mobiosolutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mobio\\Contact\\": "src/"
+        }
+    }
+}
